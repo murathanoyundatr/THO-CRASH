@@ -1,3 +1,4 @@
+_G.Acces = true
 if _G.Acces == true then
 if game.PlaceId == 5363568778 then
 while wait() do
